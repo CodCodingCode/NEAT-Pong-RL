@@ -19,6 +19,7 @@ You don't! You watch and see if the AI learns over time to become a Pong champio
 - NEAT-Python
 
 ### Installation
-Clone the repository and navigate to the directory:
+Clone the repository and navigate to the directory!
+
 
 
